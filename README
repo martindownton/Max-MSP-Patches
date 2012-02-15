@@ -1,6 +1,10 @@
 A collection (just 1 to start with) of MaxMSP patches, mostly just small snippets and not full projects.
 
+Listen/Demo/Run/HowDoIUseThese/ETC
+  To use these patchers, download the MaxMSP runtime, or free trial if you want to tinker
+  http://cycling74.com/downloads/
+
 Binaural.pat
-  A patcher to demonstrate "Binaural Beats", the phenomenom of a pulsation experienced when each ear listens to two Sin waves that differ slightly in pitch
+  A patcher to demonstrate "Binaural Beats", the phenomenom of a pulsation experienced when each ear listens to two Sin waves that differ slightly in frequency
   I've added in some defaults, the most interesting of which are the 444 and 222; obviously being half the frequency means an octive lower but it would also demonstrate twice the Binaural Frequency
   http://en.wikipedia.org/wiki/Binaural_beats
